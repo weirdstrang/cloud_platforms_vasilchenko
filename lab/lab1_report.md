@@ -9,6 +9,9 @@
 **Date of finished:** 21.11.2025 
 
 # Создание service account с ролью Storage Admin
+<img width="669" height="526" alt="image" src="https://github.com/user-attachments/assets/90f727e9-87f9-4c49-8f1f-00c51c185203" />
+
+# Создать минимальный compute engine (виртуальную машину) с Machine type e2-micro в режиме spot
 
 
 
