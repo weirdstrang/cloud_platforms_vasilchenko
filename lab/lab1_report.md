@@ -8,8 +8,8 @@
 **Date of create:** 20.11.2025  
 **Date of finished:** 21.11.2025 
 
-1.
-<img width="1661" height="721" alt="image" src="https://github.com/user-attachments/assets/8aeed0f2-1b6b-432c-bb04-4f786f0f031d" />
+# Создание service account с ролью Storage Admin
+
 
 
 
