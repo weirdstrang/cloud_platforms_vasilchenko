@@ -24,8 +24,9 @@
 
 # Настроить публичный доступ для ваших файлов в настройках приватности
 
-1. access granted to public principals для bucket'а
-![Screenshot_20251203_220915_Chrome](https://github.com/user-attachments/assets/b33efd6d-a425-4ce8-bf9e-63cfd1f769c7)
+т.к.весь бакет состоит из файлов, настроен публичный доступ для всего бакета
+![Screenshot_20251204_074420_Chrome](https://github.com/user-attachments/assets/16ccd4e9-19a4-4b0c-95bb-0be7baf12568)
+
 
 # Создать ссылку на ваши файлы через контекстное меню файла
 
