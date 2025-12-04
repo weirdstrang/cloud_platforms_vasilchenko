@@ -30,6 +30,9 @@
 Проверка доступа: ссылка на изображение https://storage.googleapis.com/ivasilchenko-lab3/My%20pictures/GJ06quXXsAAfGD4.jpeg открылась и в режиме инкогнито, и в другом браузере
 ![Screenshot_20251204_075609_Chrome](https://github.com/user-attachments/assets/ef85174c-fa96-443b-b08b-39d82d23d522)
 
+![Screenshot_20251204_124109_Samsung Internet](https://github.com/user-attachments/assets/8ad7da59-c4ff-42ac-833e-c918f5c2b4f1)
+
+
 # Создать ссылку на ваши файлы через контекстное меню файла
 
 # Удалить за собой все созданные сервисы
