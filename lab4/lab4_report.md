@@ -4,6 +4,8 @@
 **Year:** 2025/2026  
 **Group:** U4225  
 **Author:** Vasilchenko Irina Sergeevna
-**Lab:** Lab3  
+**Lab:** Lab4  
 **Date of create:** 04.12.2025  
 **Date of finished:** 05.12.2025
+
+# Лабораторная работа №4 "Разработка инфраструктуры MVP AI приложения"
