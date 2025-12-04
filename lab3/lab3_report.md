@@ -34,13 +34,7 @@
 
 
 # Создать ссылку на ваши файлы через контекстное меню файла
-
-# Удалить за собой все созданные сервисы
-
-
-
-
-
-
-
-
+ 1) https://storage.googleapis.com/ivasilchenko-lab3/My%20pictures/91a2cbedd884003326affc83c1149d6a.jpg
+ 2) https://storage.googleapis.com/ivasilchenko-lab3/My%20pictures/GJ06quXXsAAfGD4.jpeg
+ 3) https://storage.googleapis.com/ivasilchenko-lab3/My%20pictures/GJzJRhkXcAAEPL1.jpeg
+ 4) https://storage.googleapis.com/ivasilchenko-lab3/My%20pictures/i.jpeg
