@@ -28,6 +28,16 @@
 ![Screenshot_20251204_074420_Chrome](https://github.com/user-attachments/assets/16ccd4e9-19a4-4b0c-95bb-0be7baf12568)
 
 Проверка доступа: ссылка на изображение https://storage.googleapis.com/ivasilchenko-lab3/My%20pictures/GJ06quXXsAAfGD4.jpeg открылась и в режиме инкогнито, и в другом браузере
+![Screenshot_20251204_075609_Chrome](https://github.com/user-attachments/assets/ef85174c-fa96-443b-b08b-39d82d23d522)
+
 # Создать ссылку на ваши файлы через контекстное меню файла
 
 # Удалить за собой все созданные сервисы
+
+
+
+
+
+
+
+
