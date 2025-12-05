@@ -51,7 +51,8 @@
 4. Vertex AI API. Модель уже обучена, простая интеграция, дешевле чем обучение собчтвенной модели
 
 **Схема**
-![1](https://github.com/user-attachments/assets/7cc8d8ef-69fa-42b9-9e20-42fca50419a5)
+![New1](https://github.com/user-attachments/assets/81dc52b0-78cd-4c1e-815d-8c589a5599f5)
+
 
 **Расходы**
 
